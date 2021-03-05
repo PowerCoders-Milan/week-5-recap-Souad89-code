@@ -1,0 +1,45 @@
+.myTitle {
+    background-color: rgb(177, 140, 212);
+    width: 100%;
+    height: 10vh;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-radius: 5px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    background-color: darkgray;
+    height: 100vh;
+    margin: 10px;
+    
+}
+
+#box1 {
+   background-color: rgb(190, 110, 126);
+   margin: 10px;
+   border-radius: 5px;
+  
+}
+
+#box2 {
+    background-color: rgb(143, 24, 48);
+    margin: 10px;
+    border-radius: 5px;
+ }
+
+ #box3 {
+    background-color: rgb(110, 31, 80);
+    margin: 10px;
+    border-radius: 5px;
+ }
+
+ .myFooter {
+    background-color: rgb(110, 31, 80);
+    margin: 10px;
+    border-radius: 5px;
+    width: 100%;
+    height: 20vh;
+ }
