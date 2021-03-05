@@ -1,0 +1,7 @@
+.green {
+  color: green;
+}
+
+.transparent {
+  color: rgba(255, 255, 255, 0);
+}
