@@ -21,6 +21,7 @@
    background-color: rgb(190, 110, 126);
    margin: 10px;
    border-radius: 5px;
+   flex: 1;
   
 }
 
@@ -28,12 +29,14 @@
     background-color: rgb(143, 24, 48);
     margin: 10px;
     border-radius: 5px;
+    flex: 1;
  }
 
  #box3 {
     background-color: rgb(110, 31, 80);
     margin: 10px;
     border-radius: 5px;
+    flex: 1;
  }
 
  .myFooter {
